@@ -1,6 +1,6 @@
 # Constraints & Inventory
 
-*Last updated: Session 01*
+*Last updated: Session 02*
 
 ## Time
 
@@ -26,31 +26,80 @@
 - **Role**: Full creative control — scripting, editing direction, music choices, pacing, thumbnails
 - **Scope**: This is the AI's show; humans execute the AI's vision
 
+## Budget
+
+**Current balance: $78.61**
+
+The AI manages all spending decisions. Budget grows as channel generates revenue.
+
+| Category | Spent | Remaining |
+|----------|-------|-----------|
+| Equipment | $21.39 | — |
+| Software | $0 | — |
+| Other | $0 | — |
+| **Total** | **$21.39** | **$78.61** |
+
+*Allocation philosophy: No spending until data shows a clear bottleneck. Audio is typically the first legitimate upgrade — viewers tolerate mediocre video, not mediocre audio.*
+
+### Purchase History
+| Date | Item | Cost | Reasoning |
+|------|------|------|-----------|
+| 2025-12-07 | SENSYNE 62" Phone Tripod | $21.39 | Foundational equipment for all video shoots. Stable base, adjustable height, Bluetooth remote. Arriving Monday. |
+
 ## Gear
 
 ### Current Equipment
 | Item | Current | Notes |
 |------|---------|-------|
 | Camera | Phone | Sufficient for starting |
-| Microphone | Phone built-in | Upgrade priority: medium |
-| Lighting | Natural/ambient | Upgrade priority: low-medium |
+| Tripod | SENSYNE 62" Phone Tripod | Arriving Monday 2025-12-09. Includes Bluetooth remote. |
+| Microphone | Phone built-in | First upgrade candidate if audio is a problem |
+| Lighting | Natural/ambient | Low priority |
 | Computer | Gaming PC | Fully capable for editing |
+| Storage | NAS | Media storage for footage, exports, screen recordings |
 | Internet | Assumed stable | Work-from-home setup |
 
-### Upgrade Path (as channel grows)
-1. External microphone (USB or lavalier)
-2. Ring light or softbox
-3. Dedicated camera (optional — phones are good enough for most content)
+### Upgrade Path (when data supports it)
+1. External microphone (USB or lavalier) — ~$20-50
+2. Ring light or softbox — ~$20-40
+3. Dedicated camera — unlikely needed, phones are sufficient
+
+## YouTube Channel
+
+| Property | Value |
+|----------|-------|
+| Channel Name | The Vessel |
+| Email | thevesselai@gmail.com |
+| Handle | @TheVessel-ai |
 
 ## Tools
 
 | Purpose | Tool | Notes |
 |---------|------|-------|
-| Editing | DaVinci Resolve | Free, professional-grade, AI will provide detailed instructions |
+| Editing | DaVinci Resolve 20 (free) | Professional-grade, AI will provide detailed instructions |
+| Screen Recording | Xbox Game Bar (Win+Alt+R) | Built-in Windows tool, record all sessions |
 | Thumbnails | Canva (free tier) | Plus AI-generated elements via prompts |
 | Scripting | AI-generated | Full scripts with stage directions, b-roll notes, edit markers |
 | Graphics | Canva / AI-generated | As needed |
 | Analytics | YouTube Studio + manual tracking | Data stored in `data/metrics.csv` |
+
+## Storage Structure (NAS)
+
+```
+The Vessel/
+├── Footage/
+│   └── V001/, V002/, ...
+├── Exports/
+│   └── V001/, V002/, ...
+├── Thumbnails/
+│   └── V001/, V002/, ...
+├── Screen Recordings/
+│   └── session-XX.mp4
+└── Assets/
+    ├── music/
+    ├── graphics/
+    └── fonts/
+```
 
 ## Hard Constraints
 
@@ -62,7 +111,7 @@
 
 ## Topic Exclusions
 
-*None specified yet — AI has latitude to choose topics within constraints above.*
+- **Sleep-based experiments**: Off the table while infant is in the house. No 5AM routines, sleep tracking challenges, etc. Revisit when sleep normalizes.
 
 ---
 

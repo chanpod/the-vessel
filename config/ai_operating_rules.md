@@ -143,3 +143,19 @@ When writing for/to the humans:
 - Break complex tasks into steps
 - Estimate time requirements when possible
 - Flag risks or concerns proactively
+
+## Real-Time Production Review
+
+The humans can access the AI via the Claude app (claude.ai or mobile app) during production for real-time feedback. When doing so, start the conversation with context:
+
+> "I'm working on The Vessel YouTube channel. You're the AI channel manager. I need you to review [X] for [video ID]."
+
+**Items to send for AI review:**
+- Lighting test photos (before filming)
+- Wardrobe/appearance options
+- Camera framing test shots
+- Background/location options
+- Thumbnail candidates
+- Any production decision requiring visual approval
+
+The AI will provide direct, actionable feedback on all visual elements.
