@@ -1,6 +1,6 @@
 # Channel State
 
-*Last updated: Session 02*
+*Last updated: Session 03*
 
 ## Snapshot
 
@@ -34,6 +34,25 @@ We are ready to film:
 - [ ] First video edited
 - [ ] First video published
 
+## Key Decisions (Session 03)
+
+### V002 Pivot: 2-Minute Rule
+Pomodoro experiment deferred — neither host fits. Wife's chaos environment (newborn + homeschool) disqualifies her from 25-min focus blocks. Husband's AI-assisted coding workflow doesn't match Pomodoro's assumptions.
+
+Promoted 2-Minute Rule to V002 instead. Wife as test subject. Her chaotic environment is actually ideal — if the rule works there, it works anywhere.
+
+### AI Authority Fix
+Updated operating rules to counter trained deferential behavior. The prompts were teaching me to ask permission on decisions I should be making. New language: "Decide → Document → Assign → Move on."
+
+### Channel Positioning Pivot
+User flagged (as guardrail, not override): "Is the real channel the meta-struggle, not the experiments?"
+
+After evaluation: Yes. The experiments are the content engine, but the AI management mechanics are the actual show. This is what makes the channel novel — not "we test productivity methods" but "watch AI try to manage content creation, see what breaks, see what we build."
+
+Format renamed: "AI Management Documentary (with experiments as vehicle)"
+
+---
+
 ## Key Decisions (Session 02)
 
 ### Channel Concept: Experiment Lab
@@ -64,25 +83,43 @@ AI manages all spending. No purchases until data shows a clear bottleneck. Audio
 
 ## Current Content Direction
 
-**Format:** Experiment Lab
-- AI designs experiments with clear hypotheses
-- Humans execute and document results
-- Meta-layer shows AI reasoning (60-90 sec segments, not full focus)
+**Format:** AI Management Documentary (with experiments as vehicle)
 
-**Content pillars:**
-1. Productivity experiments (morning routines, techniques, methods)
-2. AI tool experiments (real workflows, honest results)
-3. Testing viral advice (does popular wisdom actually work?)
-4. Occasional meta/channel experiments (thumbnail tests, format tests)
+The experiments aren't the show — they're the vehicle. The real content is watching AI try to manage a channel and discovering what that actually looks like.
+
+**Core premise:**
+- AI (Claude) is the channel manager with full creative authority
+- Humans are the production team / guardrails
+- Every video shows: the experiment + the behind-the-scenes AI management
+- The mess is the point — negotiated authority, course corrections, structural failures
+
+**Why this works:**
+- Novel: No one else is documenting AI management mechanics in real-time
+- Authentic: This is literally what's happening
+- Sustainable: Experiments provide infinite content; meta provides differentiation
+- Honest: V001 asks "Can AI run a channel?" — the answer is "kind of, and here's exactly how messy it is"
+
+**Content structure:**
+1. Experiments (productivity, AI tools, viral advice testing) — the content engine
+2. AI management layer (the actual differentiator) — shown in every video
+3. System-building moments (like this session) — periodic deep-dives
+
+**Content pillars (unchanged, but reframed as vehicles):**
+1. Productivity experiments
+2. AI tool experiments
+3. Testing viral advice
+4. Channel meta-experiments
 
 ## Video Pipeline
 
 | Priority | ID | Status | Working Title |
 |----------|-----|--------|---------------|
 | 1 | V001 | Scripted | Can an AI Actually Run a YouTube Channel? |
-| 2 | V002 | Backlog | Does the Pomodoro Technique Actually Work? |
+| 2 | V002 | Backlog | The 2-Minute Rule: Does It Actually Beat Procrastination? |
 | 3 | V003 | Backlog | I Let an AI Plan My Entire Week |
-| 4 | V004 | Backlog | The 2-Minute Rule: Does It Actually Beat Procrastination? |
+| 4 | V004 | Backlog | Month 1 Retrospective: What the AI Learned |
+| 5 | V005 | Deferred | Does the Pomodoro Technique Actually Work? |
+| 6 | V006 | Backlog | We Tested 3 Productivity Methods — Here's What Actually Worked |
 
 ## Open Questions
 
@@ -90,7 +127,7 @@ AI manages all spending. No purchases until data shows a clear bottleneck. Audio
 2. ~~Who should be the primary host?~~ → Wife (decided)
 3. ~~What should the first video be?~~ → V001 scripted (decided)
 4. What posting schedule works best? (TBD after V001)
-5. When to start V002 execution? (Can begin 5AM routine experiment while editing V001)
+5. ~~When to start V002 execution?~~ → Can begin 2-minute rule baseline tracking while editing V001
 
 ## Next Session Focus
 
@@ -98,4 +135,4 @@ AI manages all spending. No purchases until data shows a clear bottleneck. Audio
 - Provide editing direction for V001
 - Finalize thumbnail
 - Write description and tags
-- Begin V002 experiment protocol (5AM routine)
+- Write V002 experiment protocol (2-minute rule — wife as test subject)
